@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "type": "T-shirt",
+    "color": "Red",
+    "image": "https://www.pngmart.com/files/22/Halloween-Shirts-PNG-Picture.png",
+    "season": "Summer"
+  },
+  {
+    "id": 2,
+    "type": "T-shirt",
+    "color": "White",
+    "image": "https://www.pngmart.com/files/22/Halloween-Shirts-PNG-Isolated-Image.png",
+    "season": "Summer"
+  },
+  {
+    "id": 3,
+    "type": "T-shirt",
+    "color": "Blue",
+    "image": "https://static.vecteezy.com/system/resources/previews/035/575/249/original/blue-t-shirt-isolated-free-png.png",
+    "season": "Summer"
+  },
+  {
+    "id": 4,
+    "type": "T-shirt",
+    "color": "Green",
+    "image": "https://static.vecteezy.com/system/resources/previews/035/575/263/non_2x/green-t-shirt-on-isolated-free-png.png",
+    "season": "Summer"
+  },
+  {
+    "id": 5,
+    "type": "T-shirt",
+    "color": "Yellow",
+    "image": "https://static.vecteezy.com/system/resources/previews/035/575/272/non_2x/yellow-t-shirt-mockup-cutout-file-free-png.png",
+    "season": "Summer"
+  },
+  {
+    "id": 6,
+    "type": "Jeans",
+    "color": "Blue",
+    "image": "https://www.pngmart.com/files/7/Denim-Jean-PNG-Free-Download.png",
+    "season": "All"
+  },
+  {
+    "id": 7,
+    "type": "Jeans",
+    "color": "Black",
+    "image": "https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-jeans-isolated-on-white-denim-png-image_9975994.png",
+    "season": "Winter"
+  },
+  {
+    "id": 8,
+    "type": "Jeans",
+    "color": "Gray",
+    "image": "https://png.pngtree.com/png-vector/20231120/ourmid/pngtree-grey-jeans-casual-png-image_10580402.png",
+    "season": "Winter"
+  },
+  {
+    "id": 9,
+    "type": "Jeans",
+    "color": "White",
+    "image": "https://d1fufvy4xao6k9.cloudfront.net/feed/img/woman_jeans/1091148/front.png",
+    "season": "Summer"
+  },
+  {
+    "id": 10,
+    "type": "Jeans",
+    "color": "Green",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.sxHcxr7pd-KLkF9I6XoSdgHaJ4?r=0&rs=1&pid=ImgDetMain",
+    "season": "Summer"
+  },
+  {
+    "id": 11,
+    "type": "Shoes",
+    "color": "White",
+    "image": "https://static.vecteezy.com/system/resources/previews/032/049/126/non_2x/white-sport-shoes-isolated-on-transparent-background-ai-generative-free-png.png",
+    "season": "Summer"
+  },
+  {
+    "id": 12,
+    "type": "Shoes",
+    "color": "Black",
+    "image": "https://www.pngmart.com/files/22/Football-Boots-Background-Isolated-PNG.png",
+    "season": "Winter"
+  },
+  {
+    "id": 13,
+    "type": "Shoes",
+    "color": "Red",
+    "image": "https://www.pngmart.com/files/22/Football-Boots-PNG-Background-Image.png",
+    "season": "Summer"
+  },
+  {
+    "id": 14,
+    "type": "Shoes",
+    "color": "Gray",
+    "image": "https://www.pngmart.com/files/22/Football-Boots-PNG-Transparent-Image.png",
+    "season": "Winter"
+  },
+  {
+    "id": 15,
+    "type": "Shoes",
+    "color": "Blue",
+    "image": "https://www.pngmart.com/files/22/Football-Boots-PNG-Photos.png",
+    "season": "Summer"
+  },
+  {
+    "id": 16,
+    "type": "Jackets",
+    "color": "Black",
+    "image": "https://www.pngmart.com/files/6/Fur-Lined-Leather-Jacket-PNG-Image.png",
+    "season": "Winter"
+  },
+  {
+    "id": 17,
+    "type": "Jackets",
+    "color": "Gray",
+    "image": "https://www.pngmart.com/files/6/Fur-Lined-Leather-Jacket-PNG-Clipart.png",
+    "season": "Winter"
+  },
+  {
+    "id": 18,
+    "type": "Jackets",
+    "color": "Red",
+    "image": "https://www.pngmart.com/files/15/Vector-Red-Jacket-Transparent-PNG.png",
+    "season": "Winter"
+  },
+  {
+    "id": 19,
+    "type": "Jackets",
+    "color": "Blue",
+    "image": "https://th.bing.com/th/id/OIP.SJyeWDxV5aZn8GKObjsMvQAAAA?rs=1&pid=ImgDetMain",
+    "season": "Winter"
+  },
+  {
+    "id": 20,
+    "type": "Jackets",
+    "color": "White",
+    "image": "https://th.bing.com/th/id/R.3d582b58e0c83603a1494cf39285eb37?rik=hvUopE%2bhBp6%2blg&riu=http%3a%2f%2fwww.merchology.com%2fcdn%2fshop%2fproducts%2fST241_White-F_grande.jpg%3fv%3d1571268260&ehk=FslwC0KuTx2G4J06lL3l5VNHcFfXdJA8ci9zPsD8m5c%3d&risl=&pid=ImgRaw&r=0",
+    "season": "Winter"
+  }
+]
