@@ -38,7 +38,8 @@ const OutfitGenerator = () => {
           <div key={item.id} className="text-center mt-[4rem] ">
             <div className='text-center'>
               <img src={`${item.image}`} className="text-4xl aspect-[1.1/1]" />
-              <div>{item.type}</div>
+               <div className='text-[max(.7rem,5vw)] min-[450px]:text-[max(1.5rem,4.5vw)] sm:text-[max(1.7rem,4vw)] md:text-[max(1.6rem,3.2vw)] lg:text-[clamp(1.125rem,0.3381rem+1.2295vw,1.875rem)] font-medium'>{item.type}</div>
+                            <div className="text-[max(.5rem,3.8vw)] min-[450px]:text-[max(1.2rem,3.3vw)] sm:text-[max(1.4rem,3vw)] md:text-[max(1.3rem,2.3vw)] lg:text-[clamp(0.8125rem,-0.04rem+1.332vw,1.625rem)] text-gray-500">{item.color}</div>
             </div>
           </div>
         ))}
