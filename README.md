@@ -3,10 +3,10 @@
 MyWardrobe is a responsive front-end web application that lets users add clothes, view their wardrobe, and receive simple outfit suggestions. Built using React.js, Context API, and Tailwind CSS, the app delivers a polished user experience across devices.
 
 Live Demo:
-https://your-deployment-link.netlify.app
+https://somywardrobe.netlify.app/
 
 GitHub Repo:
-https://github.com/your-username/mywardrobe
+https://github.com/somy275/Somy_Wardrobe
 ________________________________________________________________________________________
 
 🧩 Features
@@ -88,25 +88,27 @@ ________________________________________________________________________________
 📸 Screenshots:
  - Desktop view
 
-![screenshot-1749487076731](https://github.com/user-attachments/assets/b352db3b-a0e8-4383-97c9-4a05fc596c5c)
+![image](https://github.com/user-attachments/assets/801f408d-9a87-431f-9fcd-2532a311af79)
 
-![image](https://github.com/user-attachments/assets/04f607c8-05de-457b-957e-8fd4ad70fec2)
+![image](https://github.com/user-attachments/assets/1eca87bd-e1d9-43e4-a6af-5ff78ce4175f)
 
-![image](https://github.com/user-attachments/assets/a5034b1d-e9fa-4293-ad28-9b990e341e50)
+![image](https://github.com/user-attachments/assets/5b49b533-3e9c-4219-bccc-b1ce85ceaac6)
 
-![image](https://github.com/user-attachments/assets/12ac2a35-6fa4-4a08-b38d-9e943c67c218)
+![image](https://github.com/user-attachments/assets/3100dc78-9ea5-42da-96b4-ed3b93023caf)
 
-![image](https://github.com/user-attachments/assets/fb61e4a5-bc9a-4039-a833-ba47e8b94e5f)
+![image](https://github.com/user-attachments/assets/e4830690-9a18-4bf7-9eea-2ebcdbad5b94)
+
 
  - Mobile view
 
-![image](https://github.com/user-attachments/assets/10761ff5-be8f-4a80-886d-e7bfe9b21e68)
+![image](https://github.com/user-attachments/assets/f08ec977-649d-4c32-99f8-f565c858189d)
 
-![image](https://github.com/user-attachments/assets/7670560b-e8fe-4a14-b3d8-44ef86bba942)
+![image](https://github.com/user-attachments/assets/64b38b19-536b-44f3-a891-66ce641813b7)
 
-![image](https://github.com/user-attachments/assets/6cdffce6-da03-44ac-8938-40a453c6e4a1)
+![image](https://github.com/user-attachments/assets/466868eb-7644-4698-a518-93c6a142e6ef)
 
-![image](https://github.com/user-attachments/assets/200d1d05-b067-46a5-b476-0aa43014a71d)
+![image](https://github.com/user-attachments/assets/8a8d9c97-ae5e-4840-bc20-3162fc5c5040)
+
 
 
 🕒 Time Spent:-
